@@ -17,6 +17,12 @@ body
     flex-direction: column;
     justify-content: space-between;
 }
+main_form
+{
+    background-color: rgb(211, 255, 229);
+    margin: 0px;
+    padding: 0px;
+}
 header
 {
     margin: 0px;
